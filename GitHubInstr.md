@@ -80,8 +80,8 @@ git push  origin main
 5. создаем новую папку, создаем в ней репозиторий git init, и копируем в нее репозиторий с ГитХаба `git pull https://github.com/AndreyBulgakov19/SCV_Git_0812-10.git`
 6. Создаем и переходим на новую ветку `git checkout -b IlyaDevyatov`
 7. Сохряняем и делаем комит для нашего файла `git commit -m "my_comment"`
-8. Отправляем на наш удаленный репозиторий `git push` git push --set-upstream origin IlyaDevyatovgit
-IlyaDevyatovgit название новой ветки
+8. Отправляем на наш удаленный репозиторий `git push` git push --set-upstream origin IlyaDevyatov
+IlyaDevyatov название новой ветки
 
 
 
