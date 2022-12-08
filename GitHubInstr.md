@@ -78,7 +78,10 @@ git push  origin main
 3. Жмем зеленую кнопку Create fork. Это создает в нашем аккаунте новый репозиторий SCV_Git_0812-10
 4. Жмем зелёную кнопку Code  и копируем ссылку git@github.com:texnoman1/SCV_Git_0812-10.git в буфер обмена (при копировании ссылки выбирам SSH !!!!!!!!!!!!!!)
 5. создаем новую папку, создаем в ней репозиторий git init, и копируем в нее репозиторий с ГитХаба `git pull https://github.com/AndreyBulgakov19/SCV_Git_0812-10.git`
-
+6. Создаем и переходим на новую ветку `git checkout -b IlyaDevyatov`
+7. Сохряняем и делаем комит для нашего файла `git commit -m "my_comment"`
+8. Отправляем на наш удаленный репозиторий `git push` git push --set-upstream origin IlyaDevyatovgit
+IlyaDevyatovgit название новой ветки
 
 
 
